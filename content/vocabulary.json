@@ -1,0 +1,23 @@
+[
+  {
+    "id": "Chapitre 1",
+    "data": [
+      {
+        "word": "un garçon",
+        "uri": "https://raw.githubusercontent.com/claretdevigne/polyglothub-french-app/main/assets/chapitre_1/un_gar%C3%A7on.png"
+      },
+      {
+        "word": "un homme",
+        "uri": ""
+      },
+      {
+        "word": "une femme",
+        "uri": ""
+      },
+      {
+        "word": "une fille",
+        "uri": ""
+      }
+    ]
+  }
+]
